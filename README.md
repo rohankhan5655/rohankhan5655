@@ -12,5 +12,10 @@ My journey with coding began at the age of **14**, fueled by a desire to delve i
     
 *   **Learning continuously:** 📚 I'm always eager to explore new technologies and frameworks to expand my web development expertise.
 
+**Connect with me!** 🤝
+
+* **LinkedIn:** https://www.linkedin.com/in/rohan-gg-505467284/
+
+
 
    
