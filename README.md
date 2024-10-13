@@ -14,7 +14,7 @@ My journey with coding began at the age of **14**, fueled by a desire to delve i
 
 **Connect with me!** 🤝
 
-* **LinkedIn:** https://www.linkedin.com/in/rohan-gg-505467284/
+* **LinkedIn:** www.linkedin.com/in/muhammad-rohan-khan-505467284
 
 
 
