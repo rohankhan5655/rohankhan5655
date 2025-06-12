@@ -5,3 +5,5 @@ I started my tech journey a few years ago with a deep interest in building websi
 
 🔐 As an ethical hacker, I focus on identifying and exploiting vulnerabilities in web applications to help make the internet a safer place.  
 I enjoy combining my development and hacking skills to create secure, functional, and user-friendly digital experiences.
+
+📫 **Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammadrohankhan)**  
