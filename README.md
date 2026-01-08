@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-Hey there! I’m **Muhamad Rohan Khan**, a 17-year-old **Frontend Web Developer** and **Ethical Hacker** from Karachi, Pakistan 🇵🇰.  
+Hey there! I’m **Muhamad Rohan Khan**, a 18-year-old **Frontend Web Developer** and **Ethical Hacker** from Karachi, Pakistan 🇵🇰.  
 I started my tech journey a few years ago with a deep interest in building websites and later developed a strong passion for cybersecurity.
 
 🔐 As an ethical hacker, I focus on identifying and exploiting vulnerabilities in web applications to help make the internet a safer place.  
